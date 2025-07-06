@@ -1,5 +1,5 @@
 # nemol-ver1
-This repository contains some figures and documents supporting our paper "NEMOL: A Language for Generating Large Synthetic Netowrk Models"
+The Network Modeling Language (NEMOL) is a versatile language with the ability to generate large-scale realistic networks. With different parsers, its described network model can be output to interface with many network simulation tools, such as RAGE and IMUNES.
 
 ## BNF.png
-This file contains the full BNF definition of the Network Modeling Language (NEMOL)
+This file contains the full BNF definition of NEMOL
